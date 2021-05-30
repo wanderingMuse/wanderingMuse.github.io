@@ -1,5 +1,27 @@
 ## Welcome to my Portfolio!
 
+Below is a collection of sample projects to showcase my ability using different statistically geared programming languages, applications and techniques. If you find my work satisfactory, I hope to soon be in your contact!
+
+###Project 1: 
+Brief Description
+Links
+
+###Project 2:
+Brief Description
+Links
+
+###Project 3: 
+Brief Description 
+Links
+
+###Project 4:
+Brief Description
+Links
+
+###Project 5: 
+Brief Description 
+Links
+
 You can use the [editor on GitHub](https://github.com/wanderingMuse/wanderingMuse.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
