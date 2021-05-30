@@ -1,8 +1,8 @@
 title: Namita Chhabra
 logo: picture_path_with_quotes
-description: my description
+description: > my description
    <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/nc9780/">View My LinkedIn Profile</a> 
 
 theme: jekyll-theme-minimal
 
